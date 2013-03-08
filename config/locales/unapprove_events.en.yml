@@ -1,0 +1,10 @@
+en:
+  admin:
+    actions:
+      unapprove_events:
+        title: "Unapprove Events"
+        menu: "Unapprove Events menu"
+        breadcrumb: "Unapprove Events"
+        link: "Unapprove Events"
+        bulk_link: "Unapprove Events selected"
+        done: "Unapproved"
