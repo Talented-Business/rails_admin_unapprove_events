@@ -6,7 +6,7 @@ require "rails_admin_unapprove_events/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "rails_admin_unapprove_events"
-  s.version     = RailsAdminApproveEvents::VERSION
+  s.version     = RailsAdminUnapproveEvents::VERSION
   s.authors     = ["Sungil Lim"]
   s.email       = ["chamon1231@hotmail.com"]
   s.homepage    = "http://github.com/sungil"
